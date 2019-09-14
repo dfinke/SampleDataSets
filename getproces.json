@@ -1,0 +1,927 @@
+[
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "ApplicationFrameHost",
+        "Handles":  439
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "AppVShNotify",
+        "Handles":  158
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "audiodg",
+        "Handles":  180
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "browser_broker",
+        "Handles":  137
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  331
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  243
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  254
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  1431
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  168
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  136
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  245
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  577
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  503
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  246
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  239
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "chrome",
+        "Handles":  372
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "concentr",
+        "Handles":  406
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "conhost",
+        "Handles":  121
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "conhost",
+        "Handles":  255
+    },
+    {
+        "Company":  "Zoom Video Communications, Inc.",
+        "Name":  "CptService",
+        "Handles":  160
+    },
+    {
+        "Company":  null,
+        "Name":  "csrss",
+        "Handles":  653
+    },
+    {
+        "Company":  null,
+        "Name":  "csrss",
+        "Handles":  626
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "ctfmon",
+        "Handles":  400
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "dasHost",
+        "Handles":  361
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "dllhost",
+        "Handles":  185
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "dllhost",
+        "Handles":  125
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "dllhost",
+        "Handles":  202
+    },
+    {
+        "Company":  "Autodesk, Inc.",
+        "Name":  "DLMSession",
+        "Handles":  208
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "dwm",
+        "Handles":  1032
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "explorer",
+        "Handles":  2363
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "fontdrvhost",
+        "Handles":  32
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "fontdrvhost",
+        "Handles":  32
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "GoogleCrashHandler",
+        "Handles":  160
+    },
+    {
+        "Company":  "Google LLC",
+        "Name":  "GoogleCrashHandler64",
+        "Handles":  139
+    },
+    {
+        "Company":  null,
+        "Name":  "Idle",
+        "Handles":  0
+    },
+    {
+        "Company":  null,
+        "Name":  "LsaIso",
+        "Handles":  43
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "lsass",
+        "Handles":  1390
+    },
+    {
+        "Company":  null,
+        "Name":  "Memory Compression",
+        "Handles":  0
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "MicrosoftEdge",
+        "Handles":  923
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "MicrosoftEdgeCP",
+        "Handles":  483
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "MicrosoftEdgeSH",
+        "Handles":  263
+    },
+    {
+        "Company":  null,
+        "Name":  "MsMpEng",
+        "Handles":  729
+    },
+    {
+        "Company":  null,
+        "Name":  "NisSrv",
+        "Handles":  203
+    },
+    {
+        "Company":  "",
+        "Name":  "nvcontainer",
+        "Handles":  411
+    },
+    {
+        "Company":  "",
+        "Name":  "nvcontainer",
+        "Handles":  646
+    },
+    {
+        "Company":  "",
+        "Name":  "NVDisplay.Container",
+        "Handles":  258
+    },
+    {
+        "Company":  "",
+        "Name":  "NVDisplay.Container",
+        "Handles":  501
+    },
+    {
+        "Company":  "Node.js",
+        "Name":  "NVIDIA Web Helper",
+        "Handles":  579
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "OfficeClickToRun",
+        "Handles":  881
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "OneDrive",
+        "Handles":  779
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "powershell",
+        "Handles":  814
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "powershell_ise",
+        "Handles":  1021
+    },
+    {
+        "Company":  "Realtek Semiconductor",
+        "Name":  "RAVBg64",
+        "Handles":  313
+    },
+    {
+        "Company":  "Realtek Semiconductor",
+        "Name":  "RAVBg64",
+        "Handles":  319
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "Receiver",
+        "Handles":  434
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "redirector",
+        "Handles":  259
+    },
+    {
+        "Company":  null,
+        "Name":  "Registry",
+        "Handles":  0
+    },
+    {
+        "Company":  "Realtek Semiconductor",
+        "Name":  "RtkAudioService64",
+        "Handles":  171
+    },
+    {
+        "Company":  "Realtek Semiconductor",
+        "Name":  "RtkNGUI64",
+        "Handles":  408
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "rundll32",
+        "Handles":  129
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "rundll32",
+        "Handles":  141
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  115
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  244
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  256
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  321
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  313
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  244
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "RuntimeBroker",
+        "Handles":  138
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SearchUI",
+        "Handles":  1156
+    },
+    {
+        "Company":  null,
+        "Name":  "Secure System",
+        "Handles":  0
+    },
+    {
+        "Company":  null,
+        "Name":  "SecurityHealthService",
+        "Handles":  390
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SecurityHealthSystray",
+        "Handles":  153
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "SelfService",
+        "Handles":  405
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "SelfServicePlugin",
+        "Handles":  389
+    },
+    {
+        "Company":  null,
+        "Name":  "services",
+        "Handles":  734
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SettingSyncHost",
+        "Handles":  326
+    },
+    {
+        "Company":  null,
+        "Name":  "SgrmBroker",
+        "Handles":  100
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "ShellExperienceHost",
+        "Handles":  633
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "sihost",
+        "Handles":  644
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SkypeApp",
+        "Handles":  1122
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SkypeBackgroundHost",
+        "Handles":  150
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SkypeBridge",
+        "Handles":  528
+    },
+    {
+        "Company":  null,
+        "Name":  "smss",
+        "Handles":  53
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SpeechRuntime",
+        "Handles":  554
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "spoolsv",
+        "Handles":  478
+    },
+    {
+        "Company":  null,
+        "Name":  "sppsvc",
+        "Handles":  220
+    },
+    {
+        "Company":  null,
+        "Name":  "StartMenuExperienceHost",
+        "Handles":  643
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  147
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  86
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  1284
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  177
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  247
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  1325
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  331
+    },
+    {
+        "Company":  null,
+        "Name":  "svchost",
+        "Handles":  307
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  537
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  118
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  252
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  433
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  159
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  145
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  444
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  184
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  193
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  210
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  395
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  287
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  544
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  398
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  104
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  186
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  170
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  129
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  228
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  227
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  260
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  227
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  241
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  171
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  177
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  165
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  199
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  155
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  491
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  183
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  129
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  297
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  434
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  488
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  414
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  192
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  227
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  177
+    },
+    {
+        "Company":  null,
+        "Name":  "svchost",
+        "Handles":  411
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  435
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  374
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  139
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  183
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  423
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  483
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  272
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  178
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  382
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  281
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  223
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  128
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  135
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  603
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  217
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  362
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  111
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  164
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  170
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  330
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  217
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  382
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  167
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  226
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  275
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  124
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  123
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  227
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  281
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  136
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  218
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  325
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  284
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  176
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "svchost",
+        "Handles":  591
+    },
+    {
+        "Company":  null,
+        "Name":  "System",
+        "Handles":  4112
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "SystemSettings",
+        "Handles":  940
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "taskhostw",
+        "Handles":  320
+    },
+    {
+        "Company":  "TechSmith Corporation",
+        "Name":  "UploaderService",
+        "Handles":  214
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "vmcompute",
+        "Handles":  145
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "vmms",
+        "Handles":  556
+    },
+    {
+        "Company":  "Citrix Systems, Inc.",
+        "Name":  "wfcrun32",
+        "Handles":  349
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WindowsInternal.ComposableShell.Experiences.TextInput.InputApp",
+        "Handles":  541
+    },
+    {
+        "Company":  null,
+        "Name":  "wininit",
+        "Handles":  159
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "winlogon",
+        "Handles":  270
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WinStore.App",
+        "Handles":  1003
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WmiPrvSE",
+        "Handles":  369
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WUDFHost",
+        "Handles":  255
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WUDFHost",
+        "Handles":  238
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "WUDFHost",
+        "Handles":  344
+    },
+    {
+        "Company":  "Microsoft Corporation",
+        "Name":  "YourPhone",
+        "Handles":  431
+    }
+]
